@@ -1,10 +1,19 @@
 # Using Log4Net in .NET Core
 * [SalesOrder](https://github.com/gtechsltn/SalesOrder)
+* https://github.com/gtechsltn/knowledge-base
+* https://github.com/gtechsltn/event-processor
+* https://github.com/gtechsltn/Convo
+* https://github.com/gtechsltn/workflow-auth
 * https://github.com/gtechsltn/workflow-lib
 * https://github.com/gtechsltn/workflow-lib/tree/main/src/TaskManagementTool
 * https://github.com/gtechsltn/workflow-lib/tree/main/src/MeetPlanning
 * https://github.com/gtechsltn/workflow-lib/tree/main/src/BuildAutomationTool
 * https://github.com/gtechsltn/workflow-lib/tree/main/src/Shared/AuthenticationService
+* https://github.com/gtechsltn/workflow-lib/blob/main/src/Shared/AuthenticationService/docs/TODO.md
+* https://github.com/gtechsltn/workflow-lib/blob/main/docs/Convo/Description.md
+* https://github.com/gtechsltn/workflow-lib/blob/main/docs/Convo/Core/Services/ChatAuthService.md
+* https://github.com/gtechsltn/workflow-lib/blob/main/docs/Convo/Core/Services/ChatMessagingService.md
+* https://github.com/gtechsltn/workflow-lib/blob/main/docs/Convo/Services/MessagingService.md
 * https://github.com/gtechsltn/sqlviewer
 * https://github.com/gtechsltn/uptrader-eth-blazor
 * https://github.com/gtechsltn/Microsoft-Intelligent-Apps-With-Azure-AI-Services
